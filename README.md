@@ -1,9 +1,12 @@
-# `dotdotdot` Workflows 
+# `openRNA` Workflows 
 
-This repository describes  `dotdotdot` workflows for automated analysis of RNAscope data from human and mouse.
+This repository describes  `openRNA` workflows for automated analysis of RNAscope data from human and mouse.
 
-Same matlab [toolbox](https://github.com/LieberInstitute/dotdotdot/tree/master/toolbox) is used for both data sets.
+Same matlab [toolbox](https://github.com/nikmerlock97/openRNA/tree/master/toolbox) is used for both data sets.
 
-[Mouse](docs/mouse_vignette.md)
+- [Mouse](docs/mouse_vignette.md)
+- [Human](docs/human_vignette.md)
 
-[Human](docs/human_vignette.md)
+##
+
+Forked from [LieberInstitute/dotdotdot](https://github.com/LieberInstitute/dotdotdot)
