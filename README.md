@@ -1,4 +1,7 @@
-# `openRNA` Workflows 
+<!-- <h1 align="center"> openRNA </h1 -->
+# openRNA
+
+Open-source toolbox for RNAscope data analysis
 
 This repository describes  `openRNA` workflows for automated analysis of RNAscope data from human and mouse.
 
