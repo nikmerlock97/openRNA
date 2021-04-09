@@ -6,8 +6,8 @@ Open-source toolbox and workflows for automated analysis of RNAscope data from h
 ## Current Features
 ### Automated analysis of RNAscope data
   * Automated cell counting (currently works for TIF and CZI files only)
-  
-  * [Mouse](docs/mouse_vignette.md) & [Human](docs/human_vignette.md) example workflows
+ 
+  * [Mouse](docs/mouse_vignette.md) and [Human](docs/human_vignette.md) workflows
   
     * Same matlab [toolbox](https://github.com/nikmerlock97/openRNA/tree/master/toolbox) is used for both data sets.
   
