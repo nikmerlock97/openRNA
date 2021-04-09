@@ -9,7 +9,8 @@ Same matlab [toolbox](https://github.com/nikmerlock97/openRNA/tree/master/toolbo
 - [Human](docs/human_vignette.md)
 
 #### Under Construction:
-* Python version of toolbox
+* Automated analysis of LIF (z-stack) files
+* Python version of toolbox 
 
 
 ##
